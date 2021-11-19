@@ -1,9 +1,9 @@
 ### Salut toi, je suis Axel25150 - aka Lasscrow 👋
  
 ## Je suis un jeune Developpeur, Lycéen!
-- 🔭 J'ai créer mon premier site web : https://www.axelvadam.fr !
-- 🌱 J'essaye tout les languages 🤣
-- 👯 Je recherche à créer des grands projets.
+- 🔭 J'ai créé mon premier site web : https://www.axelvadam.fr !
+- 🌱 J'essaye tous les langages 🤣
+- 👯 Je recherche à créer de grands projets.
 - 🥅 2021 Goals: Être à 100% sur mes projets
 
 ### Rejoins moi:
