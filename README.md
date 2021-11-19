@@ -1,8 +1,10 @@
-### Salut toi, je suis Axel25150 - aka [Lasscrow][https://www.axelvadam.fr]
+### Salut toi, je suis Axel25150 - aka [Lasscrow][website] 👋
  
 ## Je suis un jeune Developpeur, Lycéen!
-- 🔭 I just launched my first course: Become A VS Code SuperHero!!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 J'ai créer mon premier site web : https://www.axelvadam.fr !
+- 🌱 J'essaye tout les languages 🤣
+- 👯 Je recherche à créer des grands projets.
+- 🥅 2021 Goals: Être à 100% sur mes projets
+
+### Rejoins moi:
+
